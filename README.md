@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GaneshG63
 - 👀 I’m interested in cloud engineer
 - 🌱 I’m currently learning  amazon web servicers
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ganesh14200@gmail.com
 
 <!---
